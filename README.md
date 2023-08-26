@@ -1,3 +1,9 @@
+# 此项目将不再更新！ No More Updates Or Bugfix! 
+
+现在 YiJingFramework 已经发布了新的包 [YiJingFramework.Nongli](https://github.com/YiJingFramework/Nongli/wiki) ，它通过 `lunar-csharp` 在一定范围内制出相关表，在运行期间查表以进行农历支持，与 `lunar-csharp` 的结果基本保持一致，因此一般情况下直接使用此包即可，而本项目将不再更新。
+
+# =================
+
 # LunarCsharpYiJingFrameworkExtensions
 
 LunarCsharpYiJingFrameworkExtensions 在 [lunar-csharp](https://www.nuget.org/packages/lunar-csharp) 的基础上提供了一些扩展方法，从而更方便地和 [YiJingFramework](https://github.com/YiJingFramework/YiJingFramework/wiki) 进行对接。
